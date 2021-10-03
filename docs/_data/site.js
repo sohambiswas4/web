@@ -1,5 +1,5 @@
 /* eslint-disable */
-
+/* */
 module.exports = async function () {
   return {
     name: 'Modern Web',
